@@ -1,2 +1,2 @@
-# coal
-Exploring Coal Data With Seaborn
+# Coal
+Exploring Coal Data With ***Seaborn***
